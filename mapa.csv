@@ -1,6 +1,6 @@
-Pais;lat;lon;Dispositivos
-Spain;404.168;-37.038;60
-Francia;488.566;23.522;75
-Alemania;525.200;134.050;85
-Belgica;508.503;43.517;60
-Polonia;522.297;210.122;45
+Pais,lat,lon,Dispositivos
+Spain,404.168,-37.038,60
+Francia,488.566,23.522,75
+Alemania,525.200,134.050,85
+Belgica,508.503,43.517,60
+Polonia,522.297,210.122,45
