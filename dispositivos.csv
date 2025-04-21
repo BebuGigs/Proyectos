@@ -1,0 +1,76 @@
+Nombre,IP,Tipo,Estado,CPU (%),RAM (%),RX (Mbps),TX (Mbps),Latencia (ms),Alertas
+Switch-01,192.168.10.1,Switch,Activo,8,45,162,137,3,0
+Switch-02,192.168.10.2,Switch,Activo,80,64,108,87,2,0
+Switch-03,192.168.10.3,Switch,Activo,69,87,106,223,4,1
+Switch-04,192.168.10.4,Switch,Activo,62,85,171,81,13,0
+Switch-05,192.168.10.5,Switch,Inactivo,48,45,139,135,13,1
+Switch-06,192.168.10.6,Switch,Activo,16,58,124,171,14,1
+Switch-07,192.168.10.7,Switch,Inactivo,10,68,237,111,15,1
+Switch-08,192.168.10.8,Switch,Activo,75,47,260,238,15,1
+Switch-09,192.168.10.9,Switch,Activo,13,15,269,138,13,1
+Switch-10,192.168.10.10,Switch,Activo,34,22,197,151,8,1
+Switch-11,192.168.10.11,Switch,Activo,52,55,153,148,12,0
+Switch-12,192.168.10.12,Switch,Activo,73,41,141,198,7,1
+Switch-13,192.168.10.13,Switch,Activo,46,17,158,88,13,1
+Switch-14,192.168.10.14,Switch,Inactivo,39,18,154,225,15,1
+Switch-15,192.168.10.15,Switch,Activo,68,60,264,197,3,1
+Switch-16,192.168.10.16,Switch,Activo,36,81,237,147,12,1
+Switch-17,192.168.10.17,Switch,Inactivo,51,38,135,210,8,0
+Switch-18,192.168.10.18,Switch,Activo,19,29,260,120,13,1
+Switch-19,192.168.10.19,Switch,Activo,54,58,252,199,9,1
+Switch-20,192.168.10.20,Switch,Activo,19,78,292,148,13,1
+Router-01,192.168.1.1,Router,Activo,47,70,280,382,5,1
+Router-02,192.168.1.2,Router,Activo,74,28,352,409,11,0
+Router-03,192.168.1.3,Router,Inactivo,30,84,471,150,15,1
+Router-04,192.168.1.4,Router,Activo,24,61,357,272,6,0
+Router-05,192.168.1.5,Router,Activo,20,77,235,422,9,0
+AP-01,192.168.20.1,Access Point,Inactivo,36,20,53,82,10,1
+AP-02,192.168.20.2,Access Point,Activo,35,58,45,54,7,1
+AP-03,192.168.20.3,Access Point,Inactivo,34,38,35,46,4,0
+AP-04,192.168.20.4,Access Point,Inactivo,2,47,90,44,10,0
+AP-05,192.168.20.5,Access Point,Activo,5,55,100,22,4,0
+AP-06,192.168.20.6,Access Point,Activo,22,14,85,45,5,1
+AP-07,192.168.20.7,Access Point,Activo,35,18,93,88,8,0
+AP-08,192.168.20.8,Access Point,Inactivo,27,22,32,27,7,1
+AP-09,192.168.20.9,Access Point,Inactivo,27,39,26,27,1,1
+AP-10,192.168.20.10,Access Point,Inactivo,7,25,44,39,9,1
+AP-11,192.168.20.11,Access Point,Activo,28,21,55,74,4,0
+AP-12,192.168.20.12,Access Point,Inactivo,36,16,26,84,1,0
+AP-13,192.168.20.13,Access Point,Activo,11,36,82,76,4,1
+AP-14,192.168.20.14,Access Point,Activo,11,34,20,64,5,1
+AP-15,192.168.20.15,Access Point,Inactivo,28,54,91,77,3,0
+AP-16,192.168.20.16,Access Point,Inactivo,14,13,94,84,1,1
+AP-17,192.168.20.17,Access Point,Activo,4,47,81,79,9,0
+AP-18,192.168.20.18,Access Point,Activo,33,15,43,23,10,0
+AP-19,192.168.20.19,Access Point,Activo,26,17,92,46,10,0
+AP-20,192.168.20.20,Access Point,Activo,27,52,94,87,9,1
+AP-21,192.168.20.21,Access Point,Inactivo,14,52,60,45,5,1
+AP-22,192.168.20.22,Access Point,Activo,43,51,58,73,6,0
+AP-23,192.168.20.23,Access Point,Activo,30,49,92,27,2,0
+AP-24,192.168.20.24,Access Point,Inactivo,9,69,64,23,4,1
+AP-25,192.168.20.25,Access Point,Inactivo,11,38,89,53,10,0
+AP-26,192.168.20.26,Access Point,Inactivo,43,16,37,48,2,0
+AP-27,192.168.20.27,Access Point,Activo,18,28,97,41,6,0
+AP-28,192.168.20.28,Access Point,Inactivo,33,41,52,21,2,1
+AP-29,192.168.20.29,Access Point,Inactivo,3,10,62,31,5,0
+AP-30,192.168.20.30,Access Point,Inactivo,36,55,74,86,1,0
+AP-31,192.168.20.31,Access Point,Activo,45,67,39,84,1,1
+AP-32,192.168.20.32,Access Point,Activo,28,18,25,54,6,0
+AP-33,192.168.20.33,Access Point,Inactivo,14,53,51,28,6,1
+AP-34,192.168.20.34,Access Point,Activo,16,65,40,37,7,0
+AP-35,192.168.20.35,Access Point,Activo,48,69,62,67,4,1
+AP-36,192.168.20.36,Access Point,Activo,45,16,68,19,8,0
+AP-37,192.168.20.37,Access Point,Activo,30,32,59,44,4,0
+AP-38,192.168.20.38,Access Point,Activo,26,31,55,23,5,1
+AP-39,192.168.20.39,Access Point,Inactivo,44,63,88,57,1,0
+AP-40,192.168.20.40,Access Point,Inactivo,12,47,53,19,2,1
+AP-41,192.168.20.41,Access Point,Inactivo,47,60,60,70,10,0
+AP-42,192.168.20.42,Access Point,Inactivo,37,22,52,20,7,0
+AP-43,192.168.20.43,Access Point,Activo,24,37,28,57,10,1
+AP-44,192.168.20.44,Access Point,Activo,47,67,58,79,5,1
+AP-45,192.168.20.45,Access Point,Inactivo,26,54,57,85,3,0
+AP-46,192.168.20.46,Access Point,Inactivo,43,70,68,37,10,1
+AP-47,192.168.20.47,Access Point,Inactivo,36,63,20,53,5,0
+AP-48,192.168.20.48,Access Point,Inactivo,38,48,61,74,8,1
+AP-49,192.168.20.49,Access Point,Activo,33,40,41,25,5,1
+AP-50,192.168.20.50,Access Point,Activo,49,25,59,43,4,0
