@@ -1,10 +1,10 @@
 ﻿Metrica;Valor
-Dispositivos;75
+Dispositivos;325
 Switches;125
 Routers;20
-AccessPoints;50
-Activos;70
-Inactivos;5
+AccessPoints;180
+Activos;270
+Inactivos;25
 TraficoRX(Mbps);3200
 TraficoTX(Mbps);2950
 Alertas;6
